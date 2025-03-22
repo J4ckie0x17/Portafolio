@@ -112,9 +112,9 @@ body{
 
 .FirstElement{
    display:flex;
-   justify-content: space-around;
+   justify-content: center;
    align-items: center;
-   padding-top: 5rem; 
+   padding-top: 5rem;
 } 
 
 .FirstElement.adjusted-padding {
@@ -127,6 +127,7 @@ body{
   border-radius: 50%;
   overflow: hidden;
   border: 15px solid #444444;
+  margin-right: 100px;
   box-shadow: 5px 7px 25px rgba(0, 0, 0, 0.5)
 }
 profile-photo .img{
