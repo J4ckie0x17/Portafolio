@@ -492,6 +492,9 @@ profile-photo .img{
   .container{
     width: 350px;
   }
+  .FirstElement .profile-photo{
+  margin-right: 20px;
+}
 
   .header .menu_icon {
     display: block;
